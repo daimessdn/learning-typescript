@@ -15,4 +15,7 @@ This file describes as a starter of the tutorial, which file uses to validate ty
 This file describes how to write basic TypeScript file using `console.log` and compile TypeScript using `tsc` on Terminal
 
 ### add
-This file describes how to use TypeScript types (i.e. number) to add 2 numbers.
+This file describes how to use TypeScript types (i.e. `number`) to add 2 numbers.
+
+### add2
+Same with `add`, this file shows how to use TypeScript core types (`number`, `string`, and `boolean`)
